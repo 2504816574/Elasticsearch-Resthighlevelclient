@@ -1,0 +1,9 @@
+# 应用名称
+spring:
+  application:
+    name: ElasticSearch
+  elasticsearch:
+    rest:
+      uris: 127.0.0.1:9200
+
+
